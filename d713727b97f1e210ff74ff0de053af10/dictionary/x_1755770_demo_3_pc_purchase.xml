@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8553767b97f1e210ff74ff0de053af50" label="PC Purchase" max_length="40" name="x_1755770_demo_3_pc_purchase" type="collection">
+        <element label="Comment" max_length="160" name="comment" type="string"/>
+        <element label="PC Model" max_length="40" name="pc_model" type="string"/>
+        <element label="PC SN" max_length="40" name="pc_sn" type="string"/>
+        <element display="true" label="PC Name" max_length="40" name="pc_name" type="string"/>
+    </element>
+</database>

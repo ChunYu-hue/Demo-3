@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1755770_demo_3.CommentUpdate</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>CommentUpdate</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var CommentUpdate = Class.create();
+CommentUpdate.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    CommentUpdate: function() {
+        try {
+            // 获取参数
+            var tableName = this.getParameter('sysparm_table');
+            var comments = this.getParameter("sysparm_variable");
+            var commentsValue = this.getParameter('sysparm_variable');
+            // 验证输入
+            if (!comments) {
+                return {
+                    error: true,
+                    message: "缺少必要的参数"
+                };
+            }
+            // 获取当前记录ID
+            var sysId = this.getParameter('sysparm_sys_id');
+            if (!sysId) {
+                return "Error: Record ID is required";
+            }
+            // 更新记录
+            var gr = new GlideRecord(tableName);
+            if (gr.get(sysId)) {
+                // 更新comments字段
+                gr.setValue('comment', commentsValue);
+                return gr.update() ? "success" : "Failed to update record";
+            }
+            return "Error: Record not found";
+        } catch (e) {
+            return "Error: " + e.message;
+        }
+    },
+    type: 'UpdateVariable'
+});
+
+
+
+
+
+
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 03:43:50</sys_created_on>
+        <sys_id>18c357b397b5e210ff74ff0de053afbf</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>CommentUpdate</sys_name>
+        <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
+        <sys_update_name>sys_script_include_18c357b397b5e210ff74ff0de053afbf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 07:50:45</sys_updated_on>
+    </sys_script_include>
+</record_update>
