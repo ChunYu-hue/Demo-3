@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="PC Purchase">1586dcc497cae210ff74ff0de053af0b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-11 03:02:52</sys_created_on>
+        <sys_id>71440e79978e2e10ff74ff0de053afb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PC Purchase.Any User</sys_name>
+        <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_71440e79978e2e10ff74ff0de053afb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-11 03:02:52</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</application>
+        <file_path/>
+        <instance_id>f709a4cf932566dc401cddd548373caa</instance_id>
+        <instance_name>dev348867</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_71440e79978e2e10ff74ff0de053afb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="PC Purchase">1586dcc497cae210ff74ff0de053af0b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-11 03:02:52</sys_created_on><sys_id>71440e79978e2e10ff74ff0de053afb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PC Purchase.Any User</sys_name><sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package><sys_policy/><sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_71440e79978e2e10ff74ff0de053afb7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-11 03:02:52</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1705099317</payload_hash>
+        <record_name>PC Purchase.Any User</record_name>
+        <reverted_from/>
+        <source>f787b965974aea10ff74ff0de053afbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-11 03:02:52</sys_created_on>
+        <sys_id>71440e79978e2e10ff74ff0de053afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1975cf0c5bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-11 03:02:52</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>71440e79978e2e10f45e831af7dd23bb</update_guid>
+        <update_guid_history>71440e79978e2e10f45e831af7dd23bb:1705099317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PC Purchase.Any User">3f444e79978e2e10ff74ff0de053af38</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-11 03:03:00</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>001fd0b221ad4f5a93eea8d1391f1e59</sys_id>
+        <sys_metadata>71440e79978e2e10ff74ff0de053afb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PC Purchase.Any User</sys_name>
+        <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
+        <sys_scope_delete display_value="">2efc28fc610041d08062e8249aa46704</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_71440e79978e2e10ff74ff0de053afb7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_71440e79978e2e10ff74ff0de053afb7">71440e79978e2e10ff74ff0de053afbc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-11 03:03:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="5cf43afb97f1e210ff74ff0de053afc9" sys_domain="global" table="x_1755770_demo_3_pc_purchase" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc_model</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>dcf43afb97f1e210ff74ff0de053afca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc_sn</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>d4f43afb97f1e210ff74ff0de053afcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>dcf43afb97f1e210ff74ff0de053afcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>d4f43afb97f1e210ff74ff0de053afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>dcf43afb97f1e210ff74ff0de053afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1755770_demo_3_pc_purchase</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cf43afb97f1e210ff74ff0de053afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755770_demo_3_pc_purchase</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
+            <sys_update_name>sys_ui_section_5cf43afb97f1e210ff74ff0de053afc9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</application>
+        <file_path/>
+        <instance_id>f709a4cf932566dc401cddd548373caa</instance_id>
+        <instance_name>dev348867</instance_name>
+        <name>sys_ui_section_5cf43afb97f1e210ff74ff0de053afc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 1" section_id="5cf43afb97f1e210ff74ff0de053afc9" sys_domain="global" table="x_1755770_demo_3_pc_purchase" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc_model</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>dcf43afb97f1e210ff74ff0de053afca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc_sn</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>d4f43afb97f1e210ff74ff0de053afcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>dcf43afb97f1e210ff74ff0de053afcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>d4f43afb97f1e210ff74ff0de053afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_id>dcf43afb97f1e210ff74ff0de053afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_demo_3_pc_purchase" sys_domain="global" view="Default view">5cf43afb97f1e210ff74ff0de053afc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1755770_demo_3_pc_purchase</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-05 01:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cf43afb97f1e210ff74ff0de053afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755770_demo_3_pc_purchase</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
+            <sys_update_name>sys_ui_section_5cf43afb97f1e210ff74ff0de053afc9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-05 01:27:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>535215085</payload_hash>
+        <record_name>PC Purchase</record_name>
+        <reverted_from/>
+        <source>0b8739e5974aea10ff74ff0de053af86</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 07:28:53</sys_created_on>
+        <sys_id>7497f9e5974aea10ff74ff0de053af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19758bdf4ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 07:28:53</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>7097f9e5244aea1083754daaa76a6b20</update_guid>
+        <update_guid_history>7097f9e5244aea1083754daaa76a6b20:0,c53779a5d24aea1001aa6351cbe1112f:1536473338,9cf43afb9ff1e210f6795aa73ee3aece:521380465</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-11 00:41:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>071a7916f9e044a08d05c447a80c7900</sys_id>
+        <sys_metadata>5cf43afb97f1e210ff74ff0de053afc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755770_demo_3_pc_purchase</sys_name>
+        <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
+        <sys_parent display_value="Demo 3 Pc Purchase">8553767b97f1e210ff74ff0de053af50</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
+        <sys_scope_delete display_value="">2efc28fc610041d08062e8249aa46704</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5cf43afb97f1e210ff74ff0de053afc9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5cf43afb97f1e210ff74ff0de053afc9">7497f9e5974aea10ff74ff0de053af20</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-11 00:41:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
