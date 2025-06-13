@@ -20,22 +20,6 @@ GetPreviousData.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
             variableData[key] = grOption.variables[key] + '';
         }
         return JSON.stringify(variableData);
-        // if (reqItemId) {
-        //   // 1. 查询sc_item_option_mtom（关联请求项和变量值）
-        //   var grMtom = new GlideRecord('sc_item_option_mtom');
-        //   grMtom.addQuery('sc_req_item', reqItemId);
-        //   grMtom.query();
-        //   while (grMtom.next()) {
-        //     var optionSysId = grMtom.sc_item_option; // 变量值记录的sys_id
-        //     // 2. 查询sc_item_option（获取变量名和值）
-        //     var grOption = new GlideRecord('sc_item_option');
-        //     grOption.get(optionSysId);
-        //     var fieldName = grOption.item_option_new.name; // 变量名（对应表单字段名）
-        //     var fieldValue = grOption.value;               // 变量值
-        //     variableData[fieldName] = fieldValue; // 存入结果对象
-        //   }
-        // }
-        // return JSON.stringify(variableData); // 返回JSON字符串
     },
     type: 'GetPreviousData'
 });]]></script>
@@ -43,13 +27,13 @@ GetPreviousData.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-06-06 06:20:31</sys_created_on>
         <sys_id>d3639858978e2610ff74ff0de053af36</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>GetPreviousData</sys_name>
         <sys_package display_value="Demo 3" source="x_1755770_demo_3">d713727b97f1e210ff74ff0de053af10</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Demo 3">d713727b97f1e210ff74ff0de053af10</sys_scope>
         <sys_update_name>sys_script_include_d3639858978e2610ff74ff0de053af36</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-06 08:30:17</sys_updated_on>
+        <sys_updated_on>2025-06-13 01:18:35</sys_updated_on>
     </sys_script_include>
 </record_update>
